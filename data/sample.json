@@ -1,0 +1,7 @@
+{
+    "mention_user": "sample_user",
+    "mention_role": "sample_role",
+    "content": "sample content for data",
+    "template": "sen",
+    "channel": "sample_channel"
+}
